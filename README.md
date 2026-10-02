@@ -30,4 +30,8 @@ streamlit run app.py
 * `scaler.pkl` — Data scaler
 * `columns.pkl` — Feature columns
 
+### Live Demo
+[Heart Health Risk Analyzer](https://heart-health-risk-analyzer.streamlit.app)
+
+
 **Author:** Tanishq Makkar
